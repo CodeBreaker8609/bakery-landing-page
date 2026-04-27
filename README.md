@@ -6,7 +6,7 @@ Velvet Crumb Bakery is a modern, elegant bakery website built with HTML, CSS, an
 
 Add your live demo link here once deployed:
 
-[Live Demo][(#)](https://codebreaker8609.github.io/bakery-landing-page/)
+[Live Demo][(https://codebreaker8609.github.io/bakery-landing-page/)]
 
 ## Project Overview
 
